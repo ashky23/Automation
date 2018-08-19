@@ -10,5 +10,4 @@ elem.send_keys(user)
 elem=browser.find_element_by_name("session[password]")
 elem.send_keys(pwd)
 browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div[1]/div[1]/form/input[1]').click()
-#elem.send_keys(Keys.RETURN)
-#browser.close()
+
