@@ -1,0 +1,2079 @@
+1534677650132	geckodriver	INFO	geckodriver 0.21.0
+1534677650146	geckodriver	INFO	Listening on 127.0.0.1:58157
+1534677651154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n2qU1kQiBdGW"
+1534677653032	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677653042	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677653044	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677653045	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677653067	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677653067	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677653068	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677653069	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677653084	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677653084	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677653085	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677653086	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534677656125	Marionette	INFO	Listening on port 39723
+1534677656243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534677656371	Marionette	DEBUG	[2147483649] Frame script loaded
+1534677656377	Marionette	DEBUG	[2147483649] Frame script registered
+1534677656421	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534677659816	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534677661144	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534677661705	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534677733373	geckodriver	INFO	geckodriver 0.21.0
+1534677733387	geckodriver	INFO	Listening on 127.0.0.1:54871
+1534677734413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eYBXEzeQokl1"
+1534677736122	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677736122	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677736123	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677736124	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677736144	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677736144	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677736145	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677736146	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677736161	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677736161	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677736162	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677736163	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534677739343	Marionette	INFO	Listening on port 42959
+1534677739438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534677739564	Marionette	DEBUG	[2147483649] Frame script loaded
+1534677739566	Marionette	DEBUG	[2147483649] Frame script registered
+1534677739737	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534677742361	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534677743868	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534677747567	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534677770037	geckodriver	INFO	geckodriver 0.21.0
+1534677770051	geckodriver	INFO	Listening on 127.0.0.1:60135
+1534677771059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yLyuuVDrloxY"
+1534677772915	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677772915	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677772916	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677772917	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677772935	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677772936	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677772937	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677772938	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677772953	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677772953	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677772954	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677772955	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534677776105	Marionette	INFO	Listening on port 34295
+1534677776208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534677776340	Marionette	DEBUG	[2147483649] Frame script loaded
+1534677776347	Marionette	DEBUG	[2147483649] Frame script registered
+1534677776516	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534677778650	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534677779952	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534677780628	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534677781054	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534677827839	Marionette	INFO	Stopped listening on port 42959
+1534677829343	Marionette	INFO	Stopped listening on port 34295
+1534677830870	Marionette	INFO	Stopped listening on port 39723
+1534677833043	geckodriver	INFO	geckodriver 0.21.0
+1534677833056	geckodriver	INFO	Listening on 127.0.0.1:37313
+1534677834062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.85yti2t7XXxt"
+1534677835757	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677835758	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677835758	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677835759	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677835778	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677835778	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677835779	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677835780	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677835797	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677835797	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677835798	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677835799	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534677839009	Marionette	INFO	Listening on port 46065
+1534677839091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534677839222	Marionette	DEBUG	[2147483649] Frame script loaded
+1534677839233	Marionette	DEBUG	[2147483649] Frame script registered
+1534677839393	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534677842408	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534677843711	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534677844491	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534677844896	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://twitter.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1534677904366	geckodriver	INFO	geckodriver 0.21.0
+1534677904380	geckodriver	INFO	Listening on 127.0.0.1:53241
+1534677905387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XtYbnnngLHPP"
+1534677907055	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677907056	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534677907056	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677907057	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677907075	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677907075	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534677907077	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677907077	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534677907093	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677907093	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534677907094	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534677907095	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534677910285	Marionette	INFO	Listening on port 44419
+1534677910320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534677910451	Marionette	DEBUG	[2147483649] Frame script loaded
+1534677910454	Marionette	DEBUG	[2147483649] Frame script registered
+1534677910493	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534677912576	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534677913871	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534677914484	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534677914885	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[Parent 7909, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534678059067	Marionette	INFO	Stopped listening on port 44419
+1534678059352	Marionette	INFO	Stopped listening on port 46065
+1534678682216	geckodriver	INFO	geckodriver 0.21.0
+1534678682295	geckodriver	INFO	Listening on 127.0.0.1:43635
+1534678683336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T9JqnbZqxZuO"
+1534678685439	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534678685440	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534678685441	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678685442	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534678685480	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534678685480	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534678685481	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678685482	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534678685514	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534678685515	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534678685516	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678685517	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534678689266	Marionette	INFO	Listening on port 42147
+1534678689397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534678689537	Marionette	DEBUG	[2147483649] Frame script loaded
+1534678689545	Marionette	DEBUG	[2147483649] Frame script registered
+1534678689642	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534678703043	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534678705397	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534678712285	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534678712546	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://twitter.com/
+1534678713421	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://twitter.com/
+1534678713434	Marionette	DEBUG	[2147483649] Received DOM event unload for https://twitter.com/
+1534678714481	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1534678714482	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1534678714483	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534678714483	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534678714484	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534678714486	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534678715055	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534678715330	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534678724958	geckodriver	INFO	geckodriver 0.21.0
+1534678724972	geckodriver	INFO	Listening on 127.0.0.1:35425
+1534678725976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kAKnRtiTj88H"
+1534678728013	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534678728014	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534678728015	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678728016	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534678728037	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534678728037	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534678728039	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678728039	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534678728057	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534678728057	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534678728058	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678728059	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534678731869	Marionette	INFO	Listening on port 41171
+1534678731924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534678732104	Marionette	DEBUG	[2147483649] Frame script loaded
+1534678732108	Marionette	DEBUG	[2147483649] Frame script registered
+1534678732205	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534678802103	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534678812557	Marionette	DEBUG	[2147483652] Frame script loaded
+1534678812599	Marionette	DEBUG	[2147483652] Frame script registered
+1534678812695	Marionette	DEBUG	[4294967297] Frame script loaded
+1534678812698	Marionette	DEBUG	[4294967297] Frame script registered
+1534678817423	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534678817424	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1534678817427	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+1534678829669	geckodriver	INFO	geckodriver 0.21.0
+1534678829683	geckodriver	INFO	Listening on 127.0.0.1:44443
+1534678830690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fNpIqiNWaXiR"
+1534678832594	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534678832594	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534678832595	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678832596	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534678832618	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534678832618	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534678832620	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678832621	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534678832638	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534678832638	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534678832640	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534678832641	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534678835930	Marionette	INFO	Listening on port 38181
+1534678836039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534678836180	Marionette	DEBUG	[2147483649] Frame script loaded
+1534678836192	Marionette	DEBUG	[2147483649] Frame script registered
+1534678836393	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534678839592	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534678840132	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534678843108	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+1534678843402	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://twitter.com/
+1534678844495	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://twitter.com/
+1534678844509	Marionette	DEBUG	[2147483649] Received DOM event unload for https://twitter.com/
+1534678845384	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1534678845386	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1534678845387	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534678845388	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534678845388	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534678845389	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534678846400	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://twitter.com/
+1534678846759	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://twitter.com/
+[Parent 3680, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534678862353	Marionette	INFO	Stopped listening on port 38181
+[Parent 3204, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534678864664	Marionette	INFO	Stopped listening on port 41171
+1534678867729	Marionette	INFO	Stopped listening on port 42147
+1534914938256	geckodriver	INFO	geckodriver 0.21.0
+1534914938314	geckodriver	INFO	Listening on 127.0.0.1:36419
+1534914939338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PP0F9fDajrXz"
+1534914942609	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534914942610	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534914942610	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534914942611	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534914942671	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534914942671	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534914942673	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534914942673	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534914942703	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534914942703	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534914942704	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534914942705	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534914947248	Marionette	INFO	Listening on port 41379
+1534914947322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534914947464	Marionette	DEBUG	[2147483649] Frame script loaded
+1534914947484	Marionette	DEBUG	[2147483649] Frame script registered
+1534914947528	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534915035869	Marionette	DEBUG	[2147483652] Frame script loaded
+1534915035906	Marionette	DEBUG	[2147483652] Frame script registered
+1534915036047	Marionette	DEBUG	[4294967297] Frame script loaded
+1534915036049	Marionette	DEBUG	[4294967297] Frame script registered
+1534915038620	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534915038648	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534915038794	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=netTimeout&u=http%3A//www.gmail.com/&c=UTF-8&f=regular&d=The%20server%20at%20www.gmail.com%20is%20taking%20too%20long%20to%20respond.
+1534915060622	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534915164454	geckodriver	INFO	geckodriver 0.21.0
+1534915164470	geckodriver	INFO	Listening on 127.0.0.1:39025
+1534915164545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4sJqXhwfiKPM"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1534915168898	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915168898	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915168899	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915168900	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915168903	Marionette	INFO	Stopped listening on port 41379
+1534915168978	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915168978	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915168980	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915168981	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915169013	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915169014	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915169015	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915169016	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534915173922	Marionette	INFO	Listening on port 42353
+1534915174024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534915174164	Marionette	DEBUG	[2147483649] Frame script loaded
+1534915174195	Marionette	DEBUG	[2147483649] Frame script registered
+1534915174242	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534915177142	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534915178626	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915180892	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534915180893	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534915182361	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915183303	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1534915287257	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534915300814	geckodriver	INFO	geckodriver 0.21.0
+1534915300827	geckodriver	INFO	Listening on 127.0.0.1:34535
+1534915301832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UGhxzYXCGuIC"
+1534915303787	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915303788	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915303789	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915303789	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915303812	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915303812	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915303813	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915303814	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915303832	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915303832	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915303833	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915303834	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534915307181	Marionette	INFO	Listening on port 38247
+1534915307285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534915307429	Marionette	DEBUG	[2147483649] Frame script loaded
+1534915307455	Marionette	DEBUG	[2147483649] Frame script registered
+1534915307662	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534915311048	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534915312702	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915315044	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534915315044	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534915316494	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915317498	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+1534915399044	geckodriver	INFO	geckodriver 0.21.0
+1534915399059	geckodriver	INFO	Listening on 127.0.0.1:35937
+1534915399135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.18wxNqi8QcRc"
+1534915404598	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915404599	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915404600	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915404601	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915404630	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915404631	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915404633	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915404633	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915404668	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915404668	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915404669	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915404670	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534915412668	Marionette	INFO	Listening on port 41065
+1534915413186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534915413325	Marionette	DEBUG	[2147483649] Frame script loaded
+1534915413436	Marionette	DEBUG	[2147483649] Frame script registered
+1534915413518	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534915417624	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534915419938	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915421726	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534915421730	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534915422001	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915423225	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+1534915512374	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534915524271	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+1534915579866	geckodriver	INFO	geckodriver 0.21.0
+1534915579908	geckodriver	INFO	Listening on 127.0.0.1:34515
+1534915580023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ce0SyQzDzMpq"
+1534915584405	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915584406	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915584407	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915584409	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915584434	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915584434	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915584436	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915584436	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915584476	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915584476	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915584477	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915584478	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534915591446	Marionette	INFO	Listening on port 41039
+1534915591829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534915593228	Marionette	DEBUG	[2147483649] Frame script loaded
+1534915593897	Marionette	DEBUG	[2147483649] Frame script registered
+1534915594561	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534915598071	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534915601137	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915601732	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915602649	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534915603129	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+1534915674689	Marionette	INFO	Stopped listening on port 42353
+1534915677952	Marionette	INFO	Stopped listening on port 38247
+1534915679485	Marionette	INFO	Stopped listening on port 41065
+1534915684466	geckodriver	INFO	geckodriver 0.21.0
+1534915684495	geckodriver	INFO	Listening on 127.0.0.1:38529
+1534915684668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GccwzHslEAzh"
+1534915688600	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915688601	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534915688602	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915688603	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915688626	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915688627	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534915688629	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915688630	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534915688664	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915688664	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534915688666	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534915688667	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534915692967	Marionette	INFO	Listening on port 39493
+1534915693052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534915693198	Marionette	DEBUG	[2147483649] Frame script loaded
+1534915693200	Marionette	DEBUG	[2147483649] Frame script registered
+1534915693249	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534915696145	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534915697742	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915699988	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534915699991	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534915701488	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534915702522	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534915705032	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534915805741	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534916088137	geckodriver	INFO	geckodriver 0.21.0
+1534916088150	geckodriver	INFO	Listening on 127.0.0.1:41377
+1534916089157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AdVH0WYSdM4V"
+1534916091005	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916091005	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916091006	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916091007	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916091028	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916091028	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916091030	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916091031	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916091049	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916091049	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916091050	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916091051	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534916094379	Marionette	INFO	Listening on port 42975
+1534916094394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534916094551	Marionette	DEBUG	[2147483649] Frame script loaded
+1534916094554	Marionette	DEBUG	[2147483649] Frame script registered
+1534916094610	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534916098128	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534916100879	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916103292	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534916103327	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534916104271	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916105240	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534916253716	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534916286655	geckodriver	INFO	geckodriver 0.21.0
+1534916286670	geckodriver	INFO	Listening on 127.0.0.1:53851
+1534916287676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NvTEU1UiNT3U"
+1534916289494	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916289495	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916289496	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916289498	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916289525	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916289525	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916289526	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916289527	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916289545	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916289545	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916289546	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916289547	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534916293800	Marionette	INFO	Listening on port 38633
+1534916293907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534916294049	Marionette	DEBUG	[2147483649] Frame script loaded
+1534916294142	Marionette	DEBUG	[2147483649] Frame script registered
+1534916294205	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534916297060	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534916298571	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916301003	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534916301006	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534916301035	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916302218	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: "_refreshProcess of computed view cancelled"
+1534916408027	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534916435415	geckodriver	INFO	geckodriver 0.21.0
+1534916435431	geckodriver	INFO	Listening on 127.0.0.1:40005
+1534916435469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g2rLEGbulFcg"
+1534916441281	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916441281	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916441282	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916441284	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916441362	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916441362	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916441364	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916441364	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916441423	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916441423	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916441424	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916441425	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916441885	Marionette	INFO	Stopped listening on port 38633
+1534916445391	Marionette	INFO	Stopped listening on port 42975
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534916446552	Marionette	INFO	Listening on port 46439
+1534916446657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534916446798	Marionette	DEBUG	[2147483649] Frame script loaded
+1534916446816	Marionette	DEBUG	[2147483649] Frame script registered
+1534916447015	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534916451020	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534916453042	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916455358	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534916455359	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534916456349	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916457381	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:65:13\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:65:13
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1757:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:553:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1757, column: 11
+console.error: "Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null\nStack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1757:11\nsend/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:553:13\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1757, column: 11"
+1534916538123	geckodriver	INFO	geckodriver 0.21.0
+1534916538138	geckodriver	INFO	Listening on 127.0.0.1:60923
+1534916539144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kztDGAtyckhD"
+1534916540982	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916540983	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916540984	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916540986	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916541010	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916541010	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916541011	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916541012	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916541029	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916541029	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916541030	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916541031	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534916544370	Marionette	INFO	Listening on port 41195
+1534916544481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534916544628	Marionette	DEBUG	[2147483649] Frame script loaded
+1534916544749	Marionette	DEBUG	[2147483649] Frame script registered
+1534916544875	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534916547753	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534916549348	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916551612	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534916551612	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534916553218	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916554130	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534916674922	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534916675520	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534916691439	geckodriver	INFO	geckodriver 0.21.0
+1534916691453	geckodriver	INFO	Listening on 127.0.0.1:55109
+1534916692529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.spPb91LRg1JG"
+1534916694454	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916694455	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916694456	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916694456	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916694477	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916694477	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916694479	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916694479	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916694497	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916694497	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916694499	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916694499	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534916697960	Marionette	INFO	Listening on port 37343
+1534916698705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534916699015	Marionette	DEBUG	[2147483649] Frame script loaded
+1534916699017	Marionette	DEBUG	[2147483649] Frame script registered
+1534916699111	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534916702375	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534916704134	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916706410	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534916706411	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534916707367	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916708281	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534916807043	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534916809477	Marionette	INFO	Stopped listening on port 41195
+1534916811709	Marionette	INFO	Stopped listening on port 39493
+1534916813161	Marionette	INFO	Stopped listening on port 41039
+[Parent 6353, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534916815933	Marionette	INFO	Stopped listening on port 46439
+[Parent 6912, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534916825292	Marionette	INFO	Stopped listening on port 37343
+1534916846756	geckodriver	INFO	geckodriver 0.21.0
+1534916846772	geckodriver	INFO	Listening on 127.0.0.1:54433
+1534916846836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dieaKpM0e11G"
+1534916850016	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916850016	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916850017	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916850018	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916850041	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916850041	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916850042	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916850043	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916850082	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916850083	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916850084	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916850085	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534916854278	Marionette	INFO	Listening on port 34283
+1534916854388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534916854523	Marionette	DEBUG	[2147483649] Frame script loaded
+1534916854628	Marionette	DEBUG	[2147483649] Frame script registered
+1534916854679	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534916857934	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534916859565	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916862739	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534916862741	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534916863301	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534916864342	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1534916967079	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534916996334	geckodriver	INFO	geckodriver 0.21.0
+1534916996348	geckodriver	INFO	Listening on 127.0.0.1:52709
+1534916997354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H4rE30BrSfAP"
+1534916999182	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916999183	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534916999184	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916999184	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916999205	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916999206	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534916999207	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916999208	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534916999226	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916999226	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534916999227	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534916999228	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534917002471	Marionette	INFO	Listening on port 36895
+1534917002583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534917002724	Marionette	DEBUG	[2147483649] Frame script loaded
+1534917002730	Marionette	DEBUG	[2147483649] Frame script registered
+1534917002905	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534917007903	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534917009577	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534917011680	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534917011712	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534917013345	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1534917014460	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 7476, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534917030836	Marionette	INFO	Stopped listening on port 36895
+1534917037690	Marionette	INFO	Stopped listening on port 34283
+1534917839198	geckodriver	INFO	geckodriver 0.21.0
+1534917839212	geckodriver	INFO	Listening on 127.0.0.1:47309
+1534917840219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IJiqt5O4XoWX"
+1534917842031	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534917842031	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534917842032	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534917842033	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534917842055	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534917842055	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534917842057	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534917842057	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534917842075	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534917842075	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534917842077	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534917842077	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534917845624	Marionette	INFO	Listening on port 40257
+1534917845656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534917845824	Marionette	DEBUG	[2147483649] Frame script loaded
+1534917845842	Marionette	DEBUG	[2147483649] Frame script registered
+1534917845892	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534917849065	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534917850617	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534917852898	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534917852900	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534917854556	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534917901838	geckodriver	INFO	geckodriver 0.21.0
+1534917901852	geckodriver	INFO	Listening on 127.0.0.1:58935
+1534917902859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bUAL8to8S9lN"
+1534917904599	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534917904600	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534917904601	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534917904602	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534917904622	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534917904622	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534917904624	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534917904624	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534917904642	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534917904642	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534917904643	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534917904644	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534917907955	Marionette	INFO	Listening on port 42977
+1534917907998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534917908143	Marionette	DEBUG	[2147483649] Frame script loaded
+1534917908145	Marionette	DEBUG	[2147483649] Frame script registered
+1534917908241	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534917911237	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534917912933	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534917915180	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534917915196	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534917915877	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918015570	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534918021140	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534918031436	geckodriver	INFO	geckodriver 0.21.0
+1534918031451	geckodriver	INFO	Listening on 127.0.0.1:35047
+1534918032458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jxV7zJOVY6Ss"
+1534918034367	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918034367	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918034368	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918034370	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918034394	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918034394	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918034395	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918034396	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918034413	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918034413	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918034414	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918034415	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534918037678	Marionette	INFO	Listening on port 33013
+1534918037785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534918037925	Marionette	DEBUG	[2147483649] Frame script loaded
+1534918037929	Marionette	DEBUG	[2147483649] Frame script registered
+1534918038150	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534918041204	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534918042828	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918045338	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534918045341	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534918046245	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918047153	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534918082976	geckodriver	INFO	geckodriver 0.21.0
+1534918082988	geckodriver	INFO	Listening on 127.0.0.1:41663
+1534918083995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O3mJ7OZQfhZ1"
+1534918085684	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918085684	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918085685	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918085686	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918085709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918085709	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918085711	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918085711	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918085734	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918085734	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918085736	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918085736	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534918088982	Marionette	INFO	Listening on port 37903
+1534918089050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534918089196	Marionette	DEBUG	[2147483649] Frame script loaded
+1534918089220	Marionette	DEBUG	[2147483649] Frame script registered
+1534918089289	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534918092347	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534918093939	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918096133	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534918096135	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534918096587	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918097616	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534918150900	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534918202211	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534918409409	geckodriver	INFO	geckodriver 0.21.0
+1534918409424	geckodriver	INFO	Listening on 127.0.0.1:45443
+1534918410431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VZLfTYwoRpTA"
+1534918412543	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918412544	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918412545	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918412547	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918412571	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918412571	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918412573	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918412574	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918412593	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918412594	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918412595	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918412596	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534918416285	Marionette	INFO	Listening on port 42323
+1534918416423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534918416580	Marionette	DEBUG	[2147483649] Frame script loaded
+1534918416615	Marionette	DEBUG	[2147483649] Frame script registered
+1534918416700	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534918419646	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534918422918	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918425649	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1534918425651	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1534918425786	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918426781	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534918574211	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1534918709166	geckodriver	INFO	geckodriver 0.21.0
+1534918709182	geckodriver	INFO	Listening on 127.0.0.1:44335
+1534918709216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xDPPnY7Tv91b"
+1534918713732	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918713733	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534918713734	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918713735	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918713776	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918713776	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534918713778	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918713778	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534918713807	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918713808	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534918713809	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534918713810	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534918717971	Marionette	INFO	Listening on port 39551
+1534918718089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534918718231	Marionette	DEBUG	[2147483649] Frame script loaded
+1534918718543	Marionette	DEBUG	[2147483649] Frame script registered
+1534918719017	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534918723188	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534918725080	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918726860	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534918726864	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534918727165	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534918728254	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534918828392	Marionette	INFO	Stopped listening on port 33013
+1534918831939	Marionette	INFO	Stopped listening on port 37903
+1534918832270	Marionette	INFO	Stopped listening on port 42323
+[Parent 7920, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534918836494	Marionette	INFO	Stopped listening on port 40257
+[Parent 8132, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534918840605	Marionette	INFO	Stopped listening on port 42977
+[Parent 9201, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534918842279	Marionette	INFO	Stopped listening on port 39551
+1534919972291	geckodriver	INFO	geckodriver 0.21.0
+1534919972361	geckodriver	INFO	Listening on 127.0.0.1:49393
+1534919973350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UgV8wMhZOz86"
+1534919978975	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534919978976	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534919978977	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534919978979	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534919979013	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534919979014	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534919979015	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534919979016	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534919979052	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534919979052	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534919979053	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534919979054	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534919985214	Marionette	INFO	Listening on port 41307
+1534919985329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534919985465	Marionette	DEBUG	[2147483649] Frame script loaded
+1534919985617	Marionette	DEBUG	[2147483649] Frame script registered
+1534919985678	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534919986823	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534919989113	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534919989814	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534919989821	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534919989921	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534919991119	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1534920096241	geckodriver	INFO	geckodriver 0.21.0
+1534920096254	geckodriver	INFO	Listening on 127.0.0.1:33591
+1534920097261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ro1IYXyEYB1F"
+1534920099009	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920099010	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920099011	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920099012	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920099035	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920099035	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920099037	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920099037	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920099055	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920099055	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920099056	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920099057	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534920102280	Marionette	INFO	Listening on port 45373
+1534920102402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534920102548	Marionette	DEBUG	[2147483649] Frame script loaded
+1534920102554	Marionette	DEBUG	[2147483649] Frame script registered
+1534920102747	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534920103822	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534920105518	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920105931	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534920105939	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534920106171	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920107090	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534920192059	Marionette	INFO	Stopped listening on port 45373
+1534920382287	geckodriver	INFO	geckodriver 0.21.0
+1534920382301	geckodriver	INFO	Listening on 127.0.0.1:33817
+1534920383306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nWfpbsShkoQ1"
+1534920385154	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920385154	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920385155	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920385156	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920385177	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920385177	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920385179	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920385179	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920385197	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920385197	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920385198	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920385199	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534920388468	Marionette	INFO	Listening on port 38325
+1534920388568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534920388708	Marionette	DEBUG	[2147483649] Frame script loaded
+1534920388710	Marionette	DEBUG	[2147483649] Frame script registered
+1534920388877	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534920389842	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534920391446	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920392138	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534920392138	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534920392222	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920393196	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534920620452	geckodriver	INFO	geckodriver 0.21.0
+1534920620466	geckodriver	INFO	Listening on 127.0.0.1:37661
+1534920621471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OYuSzgN2sNtQ"
+1534920623253	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920623254	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920623254	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920623255	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920623277	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920623277	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920623278	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920623279	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920623297	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920623297	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920623298	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920623299	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534920626577	Marionette	INFO	Listening on port 41475
+1534920626613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534920626767	Marionette	DEBUG	[2147483649] Frame script loaded
+1534920626790	Marionette	DEBUG	[2147483649] Frame script registered
+1534920626859	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534920628030	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534920630031	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920630533	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534920630551	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534920630857	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920631907	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534920649951	geckodriver	INFO	geckodriver 0.21.0
+1534920649966	geckodriver	INFO	Listening on 127.0.0.1:39427
+1534920650973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.srQNEUSZx3vT"
+1534920652743	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920652744	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534920652745	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920652746	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920652769	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920652770	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534920652771	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920652772	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534920652789	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920652790	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534920652791	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534920652792	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534920656200	Marionette	INFO	Listening on port 39203
+1534920656298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534920656442	Marionette	DEBUG	[2147483649] Frame script loaded
+1534920656444	Marionette	DEBUG	[2147483649] Frame script registered
+1534920656627	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534920659528	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534920661207	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920661612	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534920661650	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534920661808	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534920662913	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=9.3, line 78: unreachable code after return statement
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=9.3, line 78: unreachable code after return statement
+[Parent 4083, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 4083, Gecko_IOThread] WARNING: pipe error (170): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 4083, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534920978805	Marionette	INFO	Stopped listening on port 39203
+[Parent 3872, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534920981243	Marionette	INFO	Stopped listening on port 41475
+1534920985871	Marionette	INFO	Stopped listening on port 38325
+[Parent 2489, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534920987660	Marionette	INFO	Stopped listening on port 41307
+1534921028166	geckodriver	INFO	geckodriver 0.21.0
+1534921028183	geckodriver	INFO	Listening on 127.0.0.1:44837
+1534921028216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qXHVag28Kq2i"
+1534921030250	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921030251	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921030251	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921030253	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921030291	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921030291	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921030293	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921030293	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921030329	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921030329	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921030330	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921030331	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534921034084	Marionette	INFO	Listening on port 36565
+1534921034154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534921034293	Marionette	DEBUG	[2147483649] Frame script loaded
+1534921034350	Marionette	DEBUG	[2147483649] Frame script registered
+1534921034419	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534921035680	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534921037472	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921037883	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534921037899	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534921038281	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921039224	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534921041489	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921042124	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921042416	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921042418	Marionette	DEBUG	[2147483649] Received DOM event unload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921042469	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1534921042470	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A938%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921043025	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A938%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921043032	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A938%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921044484	Marionette	DEBUG	[2147483649] Received DOM event unload for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A938%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921044558	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1534921044560	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1534921045866	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://mail.google.com/mail/u/0/
+1534921050147	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1534921051305	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1534921061890	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1534921065988	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://mail.google.com/mail/u/0/#inbox
+1534921087285	geckodriver	INFO	geckodriver 0.21.0
+1534921087301	geckodriver	INFO	Listening on 127.0.0.1:55537
+1534921088305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hB6ITnX2H2C4"
+1534921090188	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921090189	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921090189	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921090190	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921090214	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921090214	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921090216	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921090217	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921090236	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921090236	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921090237	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921090238	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534921093669	Marionette	INFO	Listening on port 39379
+1534921093749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534921093892	Marionette	DEBUG	[2147483649] Frame script loaded
+1534921093897	Marionette	DEBUG	[2147483649] Frame script registered
+1534921094080	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534921095493	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534921097216	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921097691	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534921097699	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534921097817	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921098851	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534921101110	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921101830	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921102056	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921102059	Marionette	DEBUG	[2147483649] Received DOM event unload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921102124	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1534921102125	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A791%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921102576	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A791%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921102583	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A791%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921104089	Marionette	DEBUG	[2147483649] Received DOM event unload for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A791%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921104250	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1534921104251	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1534921105102	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://mail.google.com/mail/u/0/
+1534921109632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1534921110809	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1534921120105	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1534921124552	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://mail.google.com/mail/u/0/#inbox
+1534921128125	geckodriver	INFO	geckodriver 0.21.0
+1534921128141	geckodriver	INFO	Listening on 127.0.0.1:34581
+1534921129133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0wGcf1XAJS9t"
+1534921131462	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921131462	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921131463	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921131464	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921131488	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921131488	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921131490	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921131491	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921131509	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921131510	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921131511	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921131512	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534921135361	Marionette	INFO	Listening on port 33769
+1534921135469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534921135662	Marionette	DEBUG	[2147483649] Frame script loaded
+1534921135716	Marionette	DEBUG	[2147483649] Frame script registered
+1534921135791	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534921137844	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534921139970	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921140548	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534921140558	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534921140659	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921142215	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534921473463	geckodriver	INFO	geckodriver 0.21.0
+1534921473478	geckodriver	INFO	Listening on 127.0.0.1:58359
+1534921474482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n6hO2UqHfmM2"
+1534921476211	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921476212	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1534921476213	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921476214	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921476232	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921476232	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1534921476234	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921476235	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1534921476254	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921476254	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1534921476255	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2395:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2395:17
+processFileChanges@XPIDatabase.jsm:2727:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1534921476256	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1534921479544	Marionette	INFO	Listening on port 34071
+1534921479621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534921479765	Marionette	DEBUG	[2147483649] Frame script loaded
+1534921479791	Marionette	DEBUG	[2147483649] Frame script registered
+1534921479836	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1534921481259	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1534921483090	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921483608	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1534921483622	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1534921483822	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
+1534921484850	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1534921487099	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921487770	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921488057	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921488060	Marionette	DEBUG	[2147483649] Received DOM event unload for https://accounts.google.com/signin/v2/sl/pwd?hl=en&continue=https%3A%2F%2Fmail.google.com%2Fmail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward
+1534921488113	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1534921488114	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A799%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921488797	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A799%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921488804	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A799%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921490534	Marionette	DEBUG	[2147483649] Received DOM event unload for https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A799%3A1&pstMsg=1&flowName=GlifWebSignIn&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail&gidl=EgIIAA
+1534921490609	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1534921490609	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1534921492558	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://mail.google.com/mail/u/0/
+1534921497062	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1534921498308	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1534921507928	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1534921509501	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483695
+1534921512222	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://mail.google.com/mail/u/0/#inbox
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5816, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1534921682260	Marionette	INFO	Stopped listening on port 34071
+[Parent 5399, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534921689552	Marionette	INFO	Stopped listening on port 33769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1534921691438	Marionette	INFO	Stopped listening on port 39379
+[Parent 4944, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-khlLIT/firefox-62.0~b5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1534921692599	Marionette	INFO	Stopped listening on port 36565
