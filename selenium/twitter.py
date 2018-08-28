@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-user="8351804083"
-pwd="akky$$44"
+user="********"
+pwd="*******"
 browser=webdriver.Firefox(executable_path=r'/home/freakash/python/selenium/geckodriver')
 browser.get('https://www.twitter.com')
 assert "Twitter" in browser.title
